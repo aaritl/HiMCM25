@@ -1,1 +1,1 @@
-In this challenge we are tasked to model potential stadiums for the 2029 Super Bowl in which we have to consider variables from an envrionmental sustainability perspective.
+In this challenge we are tasked to model potential stadiums for the 2029 Super Bowl in which we have to consider variables from an envrionmental sustainability perspective. Note: AI was indeed used for labeling, debuggings, and making the work easier to do. Math was done by team respectively but code was with help of AI.
